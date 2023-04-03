@@ -1,0 +1,50 @@
+.competences {
+    border-right: 1px solid #a5b4fc;
+    border-bottom: 1px solid #a5b4fc;
+    padding: 50px;
+    margin-bottom: 80px; 
+  }
+
+  .competences h2 {
+    margin-top: 30px;
+  }
+
+  .competences ul {
+    margin-top: 30px;
+  }
+
+  .competences + div {
+    text-align: center;
+  }
+
+  .mainap {
+    width: 50%;
+    margin: auto;
+  }
+
+  td, th {
+    border: 1px solid #a5b4fc;
+    padding: 15px;
+  }
+
+  td {
+    padding: 80px;
+  }
+
+  h2 {
+    margin-bottom: 80px;
+  }
+
+  h1, h2 {
+    text-align: center;
+  }
+
+  
+
+  table {
+    color: white;
+    text-align: center;
+    width: 100%;
+    border-collapse: collapse;
+    margin:auto
+  }

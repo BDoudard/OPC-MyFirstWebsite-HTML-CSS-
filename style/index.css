@@ -1,0 +1,81 @@
+.accueil-photos {
+    background-color: white;
+    padding: 80px;
+  }
+
+  .accueil-photos h2 {
+    color: #242424;
+    text-align: center;
+    margin-bottom: 80px;
+  }
+
+  .accueil-photos div {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    justify-content: center;
+    margin-bottom: 15px;
+  }
+
+  .bio-intro {
+    display: flex;
+    flex-direction: row;
+    width: 60%;
+    align-items: flex-start;
+    margin: auto;
+  }
+
+  .bio-intro h1 {
+    margin-bottom: 15px
+  }
+
+  .bio-intro p {
+    margin-bottom: 30px;
+  }
+
+  .bio-intro div {
+    padding-right: 80px;
+  }
+
+  .contact h2 {
+    color: #a5b4fc;
+    text-align: center;
+    margin-bottom : 50px
+  }
+
+  form {
+    display: flex;
+    flex-direction: column;
+    max-width: 1000px;
+    margin: auto;
+    color: white;
+  }
+
+  .form-nom-mail {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+  }
+
+  .form-column {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+  }
+
+  input, textarea {
+    padding: 15px;
+    border-radius: 3px;
+    border: none;
+  }
+
+  label {
+    margin-bottom: 10px;
+  }
+
+  input[type='submit'] {
+    width: 200px;
+    margin: auto;
+    margin-top: 30px
+  }
